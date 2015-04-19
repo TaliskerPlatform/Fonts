@@ -38,4 +38,6 @@ Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/O
 
 Originally by [Ralph Levien](http://www.levien.com), published as “[Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)”
 
+Incorporates [modifications](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/) to `quotesingle` and `quotedbl` by [David Zhou](http://nodnod.net/)
+
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
