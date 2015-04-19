@@ -1,0 +1,9 @@
+[submodule "Raleway"]
+	path = Raleway
+	url = https://github.com/theleagueof/raleway.git
+[submodule "Junction"]
+	path = Junction
+	url = https://github.com/theleagueof/junction.git
+[submodule "Prociono"]
+	path = Prociono
+	url = https://github.com/theleagueof/prociono.git
