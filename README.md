@@ -16,6 +16,12 @@ limitations under the License.
 
 ***
 
+## Fanwood
+
+Originally by [Barry Schwartz](https://www.theleagueofmoveabletype.com/members/crudfactory), published as “[Fanwood](https://www.theleagueofmoveabletype.com/fanwood)”.
+
+Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
+
 ## Junction
 
 Originally by [Caroline Hadilaksono](https://www.theleagueofmoveabletype.com/members/chadilaksono) and [Tyler Finck](https://www.theleagueofmoveabletype.com/members/sursly), published as “[Junction](https://www.theleagueofmoveabletype.com/junction)”.

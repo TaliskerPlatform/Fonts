@@ -7,3 +7,6 @@
 [submodule "Prociono"]
 	path = Prociono
 	url = https://github.com/theleagueof/prociono.git
+[submodule "Fanwood"]
+	path = Fanwood
+	url = https://github.com/theleagueof/fanwood.git

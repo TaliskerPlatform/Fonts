@@ -25,6 +25,10 @@ fontsdir = $(prefix)/Library/Fonts
 
 install-data-hook:
 	$(MKDIR_P) '$(DESTDIR)$(fontsdir)'
+	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood.otf' '$(DESTDIR)$(fontsdir)/Fanwood Regular.otf'
+	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood Text.otf' '$(DESTDIR)$(fontsdir)/Fanwood Text.otf'
+	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood Text Italic.otf' '$(DESTDIR)$(fontsdir)/Fanwood Text Italic.otf'
+	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood Italic.otf' '$(DESTDIR)$(fontsdir)/Fanwood Italic.otf'
 	$(INSTALL_DATA) '$(srcdir)/Junction/Junction-regular.otf' '$(DESTDIR)$(fontsdir)/Junction Regular.otf'
 	$(INSTALL_DATA) '$(srcdir)/Junction/Junction-bold.otf' '$(DESTDIR)$(fontsdir)/Junction Bold.otf'
 	$(INSTALL_DATA) '$(srcdir)/Junction/Junction-light.otf' '$(DESTDIR)$(fontsdir)/Junction Light.otf'
