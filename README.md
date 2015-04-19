@@ -28,6 +28,12 @@ Originally by [Caroline Hadilaksono](https://www.theleagueofmoveabletype.com/mem
 
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
 
+## League Gothic
+
+Originally by [Micah Rich](https://www.theleagueofmoveabletype.com/members/micahbrich), [Caroline Hadilaksono](https://www.theleagueofmoveabletype.com/members/chadilaksono), and [Tyler Finck](https://www.theleagueofmoveabletype.com/members/sursly), published as “[League Gothic](https://www.theleagueofmoveabletype.com/league-gothic)”.
+
+Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
+
 ## Prociono
 
 Originally by [Barry Schwartz](https://www.theleagueofmoveabletype.com/members/crudfactory), published as “[Prociono](https://www.theleagueofmoveabletype.com/prociono)”.
