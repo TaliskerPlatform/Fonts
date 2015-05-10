@@ -79,7 +79,7 @@ released) as the primary name displayed to end-users.
 
 ***
 
-## Bristol
+## ![Bristol](https://raw.githubusercontent.com/TaliskerPlatform/Fonts/develop/Bristol/Bristol.png)
 
 Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](http://www.impallari.com/cabin)”, with modifications by [Igino Marini](http://ikern.com/k1/).
 
