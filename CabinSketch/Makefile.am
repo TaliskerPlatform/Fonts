@@ -16,11 +16,12 @@
 
 dist_noinst_DATA = FONTLOG.txt DESCRIPTION.en_us.html OFL.txt \
 	METADATA.json \
-	CabinSketch-Bold.ttf CabinSketch-Regular.ttf
+	CabinSketch-Bold.ttf CabinSketch-Regular.ttf \
+	CabinSketch-400.otf CabinSketch-700.otf
 
 fontsdir = $(prefix)/Library/Fonts
 
 install-data-hook:
 	$(MKDIR_P) '$(DESTDIR)$(fontsdir)'
-	$(INSTALL_DATA) CabinSketch-Bold.ttf '$(DESTDIR)$(fontsdir)/Cabin Sketch Bold.ttf'
-	$(INSTALL_DATA) CabinSketch-Regular.ttf '$(DESTDIR)$(fontsdir)/Cabin Sketch Regular.ttf'
+	$(INSTALL_DATA) CabinSketch-400.otf '$(DESTDIR)$(fontsdir)/Cabin Sketch 400.otf'
+	$(INSTALL_DATA) CabinSketch-700.otf '$(DESTDIR)$(fontsdir)/Cabin Sketch 700.otf'
