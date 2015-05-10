@@ -22,6 +22,7 @@ AM_MAINTAINER_MODE
 AC_CONFIG_FILES([
 Makefile
 TaliskerTerminal/Makefile
+Roboto/Makefile
 ])
 
 AC_OUTPUT

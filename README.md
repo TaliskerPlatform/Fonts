@@ -46,6 +46,12 @@ Originally by [Matt McInerney Warby](https://www.theleagueofmoveabletype.com/mem
 
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
 
+## Roboto
+
+Originally by [Google, Inc.](http://www.google.com/fonts/), published as “[Roboto](http://www.google.com/fonts/specimen/Roboto)”
+
+Licensed under the terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/)
+
 ## Talisker Terminal
 
 Originally by [Ralph Levien](http://www.levien.com), published as “[Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)”
