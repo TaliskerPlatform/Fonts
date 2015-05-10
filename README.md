@@ -46,11 +46,11 @@ Weights are one of:
 
 By preference, OpenType (`.otf`) files are installed.
 
-### Postscript names
+### PostScript names
 
 The _Font name_ uses a naming scheme of:
 
-    Family[Variant]-Weight[Style]
+    Family[Variant]-Weight-[Style]
 
 The _Family name_ uses a naming scheme of:
 
@@ -59,6 +59,16 @@ The _Family name_ uses a naming scheme of:
 The _Name for humans_ uses a naming scheme of:
 
     Family [Variant] Weight [Style]
+
+### TrueType Font (TTF) names
+
+The _Family_ should match the PostScript _Family name_.
+
+The _Styles (sub-family)_ uses a naming scheme of:
+
+    Weight [Style]
+
+The _Fullname_ should match the PostScript _Name for humans_.
 
 ### Open Font License Reserved Names
 
