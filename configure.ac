@@ -24,7 +24,7 @@ Makefile
 TaliskerTerminal/Makefile
 Roboto/Makefile
 Bristol/Makefile
-CabinSketch/Makefile
+BristolSketch/Makefile
 ])
 
 AC_OUTPUT

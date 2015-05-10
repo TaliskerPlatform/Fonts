@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'BristolSketch-400';
+	src: url(BristolSketch-400.otf);
+}
+@font-face {
+	font-family: 'BristolSketch-700';
+	src: url(BristolSketch-700.otf);
+}
+
+section.regular>p {
+	font-family: 'BristolSketch-400';
+}
+section.bold>p {
+	font-family: 'BristolSketch-700';
+}
