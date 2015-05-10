@@ -16,7 +16,7 @@
 
 dist_noinst_DATA = LICENSE-2.0 README.md specimen.css
 
-SUBDIRS = TaliskerTerminal Roboto Bristol BristolSketch
+SUBDIRS = Bristol BristolSketch Geneva TaliskerTerminal
 
 fontsdir = $(prefix)/Library/Fonts
 

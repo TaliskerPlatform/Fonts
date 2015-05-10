@@ -1,0 +1,85 @@
+@font-face {
+	font-family: 'Geneva-100';
+	src: url(Geneva-100.otf);
+}
+@font-face {
+	font-family: 'Geneva-100-Italic';
+	src: url(Geneva-100-Italic.otf);
+}
+@font-face {
+	font-family: 'Geneva-300';
+	src: url(Geneva-300.otf);
+}
+@font-face {
+	font-family: 'Geneva-300-Italic';
+	src: url(Geneva-300-Italic.otf);
+}
+@font-face {
+	font-family: 'Geneva-400';
+	src: url(Geneva-400.otf);
+}
+@font-face {
+	font-family: 'Geneva-400-Italic';
+	src: url(Geneva-400-Italic.otf);
+}
+@font-face {
+	font-family: 'Geneva-500';
+	src: url(Geneva-500.otf);
+}
+@font-face {
+	font-family: 'Geneva-500-Italic';
+	src: url(Geneva-500-Italic.otf);
+}
+@font-face {
+	font-family: 'Geneva-700';
+	src: url(Geneva-700.otf);
+}
+@font-face {
+	font-family: 'Geneva-700-Italic';
+	src: url(Geneva-700-Italic.otf);
+}
+@font-face {
+	font-family: 'Geneva-900';
+	src: url(Geneva-900.otf);
+}
+@font-face {
+	font-family: 'Geneva-900-Italic';
+	src: url(Geneva-900-Italic.otf);
+}
+section.thin>p {
+	font-family: 'Geneva-100';
+}
+section.thin.italic>p {
+	font-family: 'Geneva-100-Italic';
+}
+section.light>p {
+	font-family: 'Geneva-300';
+}
+section.light.italic>p {
+	font-family: 'Geneva-300-Italic';
+}
+
+section.regular>p {
+	font-family: 'Geneva-400';
+}
+section.regular.italic>p {
+	font-family: 'Geneva-400-Italic';
+}
+section.medium>p {
+	font-family: 'Geneva-500';
+}
+section.medium.italic>p {
+	font-family: 'Geneva-500-Italic';
+}
+section.bold>p {
+	font-family: 'Geneva-700';
+}
+section.bold.italic>p {
+	font-family: 'Geneva-700-Italic';
+}
+section.black>p {
+	font-family: 'Geneva-900';
+}
+section.black.italic>p {
+	font-family: 'Geneva-900-Italic';
+}

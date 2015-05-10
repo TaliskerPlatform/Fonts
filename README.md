@@ -91,6 +91,12 @@ Originally by [Barry Schwartz](https://www.theleagueofmoveabletype.com/members/c
 
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
 
+## Geneva
+
+Originally by [Google, Inc.](http://www.google.com/fonts/), published as “[Roboto](http://www.google.com/fonts/specimen/Roboto)”
+
+Licensed under the terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/)
+
 ## Junction
 
 Originally by [Caroline Hadilaksono](https://www.theleagueofmoveabletype.com/members/chadilaksono) and [Tyler Finck](https://www.theleagueofmoveabletype.com/members/sursly), published as “[Junction](https://www.theleagueofmoveabletype.com/junction)”.
@@ -114,12 +120,6 @@ Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/O
 Originally by [Matt McInerney Warby](https://www.theleagueofmoveabletype.com/members/matt), published as “[Raleway](https://www.theleagueofmoveabletype.com/raleway)”
 
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
-
-## Roboto
-
-Originally by [Google, Inc.](http://www.google.com/fonts/), published as “[Roboto](http://www.google.com/fonts/specimen/Roboto)”
-
-Licensed under the terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/)
 
 ## Talisker Terminal
 
