@@ -17,7 +17,8 @@
 dist_noinst_DATA = FONTLOG.txt DESCRIPTION.en_us.html OFL.txt \
 	METADATA.json \
 	CabinSketch-Bold.ttf CabinSketch-Regular.ttf \
-	CabinSketch-400.otf CabinSketch-700.otf
+	CabinSketch-400.otf CabinSketch-700.otf \
+	specimen.html fonts.css
 
 fontsdir = $(prefix)/Library/Fonts
 

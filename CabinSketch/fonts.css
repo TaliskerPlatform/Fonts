@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'CabinSketch-400';
+	src: url(CabinSketch-400.otf);
+}
+@font-face {
+	font-family: 'CabinSketch-700';
+	src: url(CabinSketch-700.otf);
+}
+
+section.regular>p {
+	font-family: 'CabinSketch-400';
+}
+section.bold>p {
+	font-family: 'CabinSketch-700';
+}
