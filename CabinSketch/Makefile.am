@@ -14,17 +14,13 @@
 
 ## See README.md for the full list of typeface credits.
 
-AC_INIT([Fonts],[develop])
-AC_PREFIX_DEFAULT([/Preview])
-AM_INIT_AUTOMAKE([foreign])
-AM_MAINTAINER_MODE
+dist_noinst_DATA = FONTLOG.txt DESCRIPTION.en_us.html OFL.txt \
+	METADATA.json \
+	CabinSketch-Bold.ttf CabinSketch-Regular.ttf
 
-AC_CONFIG_FILES([
-Makefile
-TaliskerTerminal/Makefile
-Roboto/Makefile
-Cabin/Makefile
-CabinSketch/Makefile
-])
+fontsdir = $(prefix)/Library/Fonts
 
-AC_OUTPUT
+install-data-hook:
+	$(MKDIR_P) '$(DESTDIR)$(fontsdir)'
+	$(INSTALL_DATA) CabinSketch-Bold.ttf '$(DESTDIR)$(fontsdir)/Cabin Sketch Bold.ttf'
+	$(INSTALL_DATA) CabinSketch-Regular.ttf '$(DESTDIR)$(fontsdir)/Cabin Sketch Regular.ttf'
