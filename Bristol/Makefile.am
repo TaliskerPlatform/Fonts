@@ -19,6 +19,7 @@ dist_noinst_DATA = FONTLOG.txt DESCRIPTION.en_us.html OFL.txt \
 	Cabin-Bold.ttf Cabin-BoldItalic.ttf Cabin-Italic.ttf Cabin-Medium.ttf \
 	Cabin-MediumItalic.ttf Cabin-Regular.ttf Cabin-SemiBold.ttf \
 	Cabin-SemiBoldItalic.ttf \
+	fonts.css specimen.html \
 	Bristol-400.sfd Bristol-400.otf \
 	Bristol-400-Italic.sfd Bristol-400-Italic.otf \
 	Bristol-500.sfd Bristol-500.otf \
