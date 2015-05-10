@@ -25,6 +25,7 @@ TaliskerTerminal/Makefile
 Geneva/Makefile
 Bristol/Makefile
 BristolSketch/Makefile
+Bohemia/Makefile
 ])
 
 AC_OUTPUT

@@ -16,7 +16,7 @@
 
 dist_noinst_DATA = LICENSE-2.0 README.md specimen.css
 
-SUBDIRS = Bristol BristolSketch Geneva TaliskerTerminal
+SUBDIRS = Bohemia Bristol BristolSketch Geneva TaliskerTerminal
 
 fontsdir = $(prefix)/Library/Fonts
 
@@ -25,10 +25,6 @@ fontsdir = $(prefix)/Library/Fonts
 
 disable-install-data-hook:
 	$(MKDIR_P) '$(DESTDIR)$(fontsdir)'
-	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood.otf' '$(DESTDIR)$(fontsdir)/Fanwood Regular.otf'
-	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood Text.otf' '$(DESTDIR)$(fontsdir)/Fanwood Text.otf'
-	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood Text Italic.otf' '$(DESTDIR)$(fontsdir)/Fanwood Text Italic.otf'
-	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood Italic.otf' '$(DESTDIR)$(fontsdir)/Fanwood Italic.otf'
 	$(INSTALL_DATA) '$(srcdir)/Junction/Junction-regular.otf' '$(DESTDIR)$(fontsdir)/Junction Regular.otf'
 	$(INSTALL_DATA) '$(srcdir)/Junction/Junction-bold.otf' '$(DESTDIR)$(fontsdir)/Junction Bold.otf'
 	$(INSTALL_DATA) '$(srcdir)/Junction/Junction-light.otf' '$(DESTDIR)$(fontsdir)/Junction Light.otf'

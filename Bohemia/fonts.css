@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'Bohemia-400';
+	src: url(Bohemia-400.otf);
+}
+@font-face {
+	font-family: 'Bohemia-400-Italic';
+	src: url(Bohemia-400-Italic.otf);
+}
+
+@font-face {
+	font-family: 'BohemiaText-400';
+	src: url(BohemiaText-400.otf);
+}
+@font-face {
+	font-family: 'BohemiaText-400-Italic';
+	src: url(BohemiaText-400-Italic.otf);
+}
+
+.bohemia section.regular>p {
+	font-family: 'Bohemia-400';
+}
+.bohemia section.regular.italic>p {
+	font-family: 'Bohemia-400-Italic';
+}
+
+.bohemia-text section.regular>p {
+	font-family: 'BohemiaText-400';
+}
+.bohemia-text section.regular.italic>p {
+	font-family: 'BohemiaText-400-Italic';
+}

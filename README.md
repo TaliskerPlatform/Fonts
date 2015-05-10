@@ -85,11 +85,11 @@ Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabi
 
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
 
-## Fanwood
+## Bohemia
 
-Originally by [Barry Schwartz](https://www.theleagueofmoveabletype.com/members/crudfactory), published as “[Fanwood](https://www.theleagueofmoveabletype.com/fanwood)”.
+Originally by [Barry Schwartz](http://crudfactory.com), published as “[Fanwood](http://crudfactory.com/font/show/fanwood)”.
 
-Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
+Licensed under the terms of the [MIT License](http://opensource.org/licenses/mit-license.php)
 
 ## Geneva
 
