@@ -19,7 +19,7 @@ dist_noinst_DATA = COPYRIGHT.txt DESCRIPTION.en_us.html LICENSE.txt \
 	Roboto-BoldItalic.ttf Roboto-Italic.ttf Roboto-Light.ttf \
 	Roboto-LightItalic.ttf Roboto-Medium.ttf Roboto-MediumItalic.ttf \
 	Roboto-Regular.ttf Roboto-Thin.ttf Roboto-ThinItalic.ttf \
-	fonts.css specimen.html \
+	fonts.css specimen.html Geneva.png \
 	Geneva-100.sfd Geneva-100.otf \
 	Geneva-100-Italic.sfd Geneva-100-Italic.otf \
 	Geneva-300.sfd Geneva-300.otf \

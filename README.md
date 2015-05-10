@@ -91,7 +91,7 @@ Originally by [Barry Schwartz](http://crudfactory.com), published as “[Fanwood
 
 Licensed under the terms of the [MIT License](http://opensource.org/licenses/mit-license.php)
 
-## Geneva
+## ![Geneva](https://raw.githubusercontent.com/TaliskerPlatform/Fonts/develop/Geneva/Geneva.png)
 
 Originally by [Google, Inc.](http://www.google.com/fonts/), published as “[Roboto](http://www.google.com/fonts/specimen/Roboto)”
 
