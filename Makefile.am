@@ -23,7 +23,7 @@ fontsdir = $(prefix)/Library/Fonts
 # make has problems with filenames containing spaces, so we install using
 # a hook instead.
 
-install-data-hook:
+disable-install-data-hook:
 	$(MKDIR_P) '$(DESTDIR)$(fontsdir)'
 	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood.otf' '$(DESTDIR)$(fontsdir)/Fanwood Regular.otf'
 	$(INSTALL_DATA) '$(srcdir)/Fanwood/Fanwood Text.otf' '$(DESTDIR)$(fontsdir)/Fanwood Text.otf'
