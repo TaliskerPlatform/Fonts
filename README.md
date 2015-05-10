@@ -121,7 +121,7 @@ Originally by [Matt McInerney Warby](https://www.theleagueofmoveabletype.com/mem
 
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
 
-## Talisker Terminal
+## ![Talisker Terminal](https://raw.githubusercontent.com/TaliskerPlatform/Fonts/develop/TaliskerTerminal/TaliskerTerminal.png)
 
 Originally by [Ralph Levien](http://www.levien.com), published as “[Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)”
 
