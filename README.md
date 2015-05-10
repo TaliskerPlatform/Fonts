@@ -18,7 +18,7 @@ limitations under the License.
 
 ## Cabin
 
-Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](https://www.google.com/fonts/specimen/Cabin)”
+Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](http://www.impallari.com/cabin)”, with modifications by [Igino Marini](http://ikern.com/k1/).
 
 Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
 
