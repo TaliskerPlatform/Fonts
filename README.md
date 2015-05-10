@@ -50,7 +50,7 @@ By preference, OpenType (`.otf`) files are installed.
 
 The _Font name_ uses a naming scheme of:
 
-    Family[Variant]-Weight-[Style]
+    Family[Variant]-Weight[Style]
 
 The _Family name_ uses a naming scheme of:
 
@@ -79,17 +79,17 @@ released) as the primary name displayed to end-users.
 
 ***
 
-## ![Bristol](https://raw.githubusercontent.com/TaliskerPlatform/Fonts/develop/Bristol/Bristol.png)
-
-Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](http://www.impallari.com/cabin)”, with modifications by [Igino Marini](http://ikern.com/k1/).
-
-Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
-
 ## ![Bohemia](https://raw.githubusercontent.com/TaliskerPlatform/Fonts/develop/Bohemia/Bohemia.png)
 
 Originally by [Barry Schwartz](http://crudfactory.com), published as “[Fanwood](http://crudfactory.com/font/show/fanwood)”.
 
 Licensed under the terms of the [MIT License](http://opensource.org/licenses/mit-license.php)
+
+## ![Bristol](https://raw.githubusercontent.com/TaliskerPlatform/Fonts/develop/Bristol/Bristol.png)
+
+Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](http://www.impallari.com/cabin)”, with modifications by [Igino Marini](http://ikern.com/k1/).
+
+Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
 
 ## ![Geneva](https://raw.githubusercontent.com/TaliskerPlatform/Fonts/develop/Geneva/Geneva.png)
 

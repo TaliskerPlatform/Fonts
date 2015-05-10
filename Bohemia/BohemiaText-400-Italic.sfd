@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: BohemiaText-Regular-Italic
+FontName: BohemiaText-RegularItalic
 FullName: Bohemia Text Regular Italic
 FamilyName: Bohemia Text
 Weight: Regular
 Copyright: Copyright (c) 2011, Barry Schwartz
-Version: 1.1
+Version: 1.00
 DefaultBaseFilename: BohemiaText-400-Italic
 ItalicAngle: -9
 UnderlinePosition: -100
@@ -16,13 +16,12 @@ sfntRevision: 0x00011999
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 805 -1179658985 6985811]
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1287776574
-ModificationTime: 1431281121
+ModificationTime: 1431297169
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +53,7 @@ OS2StrikeYSize: 49
 OS2StrikeYPos: 258
 OS2CapHeight: 286
 OS2XHeight: 308
-OS2Vendor: 'PfEd'
+OS2Vendor: '    '
 OS2CodePages: 00000093.00000000
 OS2UnicodeRanges: a000006f.0000004a.00000000.00000000
 Lookup: 3 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > ) ]
@@ -406,7 +405,7 @@ ChainSub2: coverage "'frac' Diagonal Fractions in Latin lookup 7 subtable" 0 0 0
  1
   SeqLookup: 0 "Single Substitution lookup 8"
 EndFPST
-LangName: 1033 "" "" "Regular Italic" "Bohemia Text Regular Italic" "" "" "" "" "" "" "" "" "" "Copyright (c) 2011, Barry Schwartz+AAoACgAK-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of this software and associated documentation files (the +ACIA-Software+ACIA), to deal+AAoA-in the Software without restriction, including without limitation the rights+AAoA-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell+AAoA-copies of the Software, and to permit persons to whom the Software is+AAoA-furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright notice and this permission notice shall be included in+AAoA-all copies or substantial portions of the Software.+AAoACgAA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR+AAoA-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE+AAoA-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER+AAoA-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,+AAoA-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN+AAoA-THE SOFTWARE.+AAoA" "http://www.opensource.org/licenses/mit-license.php"
+LangName: 1033 "" "" "Regular Italic" "Talisker: BohemiaText-400-Italic" "" "" "" "" "" "Barry Schwartz" "" "https://github.com/TaliskerPlatform/Fonts" "http://crudfactory.com" "Copyright (c) 2011, Barry Schwartz+AAoACgAK-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of this software and associated documentation files (the +ACIA-Software+ACIA), to deal+AAoA-in the Software without restriction, including without limitation the rights+AAoA-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell+AAoA-copies of the Software, and to permit persons to whom the Software is+AAoA-furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright notice and this permission notice shall be included in+AAoA-all copies or substantial portions of the Software.+AAoACgAA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR+AAoA-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE+AAoA-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER+AAoA-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,+AAoA-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN+AAoA-THE SOFTWARE.+AAoA" "http://www.opensource.org/licenses/mit-license.php" "" "" "" "Fanwood Text Italic"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
