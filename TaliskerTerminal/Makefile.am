@@ -14,7 +14,8 @@
 
 ## See README.md for the full list of typeface credits.
 
-dist_noinst_DATA = TaliskerTerminal-500.sfd TaliskerTerminal-500.otf
+dist_noinst_DATA = TaliskerTerminal-500.sfd TaliskerTerminal-500.otf \
+	specimen.html fonts.css
 
 fontsdir = $(prefix)/Library/Fonts
 

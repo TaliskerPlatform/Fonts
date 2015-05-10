@@ -1,0 +1,25 @@
+* {
+	font-family: 'Bristol Sans', sans-serif;
+}
+body {
+	margin: 1em 2em;
+}
+h1 {
+	font-size: 200%;
+	font-weight: normal;
+	color: #666;
+	margin: 1em 0;
+}
+h2 {
+	font-size: 95%;
+	color: #888;
+	margin: 1em 0;
+}
+section {
+	border: solid #999 1px;
+	margin: 2em 0;
+	padding: 0.25em 2em;
+}
+p {
+	font-size: 32px;
+}

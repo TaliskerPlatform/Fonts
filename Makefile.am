@@ -14,7 +14,7 @@
 
 ## See README.md for the full list of typeface credits.
 
-dist_noinst_DATA = LICENSE-2.0 README.md
+dist_noinst_DATA = LICENSE-2.0 README.md specimen.css
 
 SUBDIRS = TaliskerTerminal Roboto Cabin CabinSketch
 

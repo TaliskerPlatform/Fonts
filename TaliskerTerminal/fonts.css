@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'TaliskerTerminal-500';
+	src: url(TaliskerTerminal-500.otf);
+}
+
+section.medium>p {
+	font-family: 'TaliskerTerminal-500';
+}
