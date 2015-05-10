@@ -23,7 +23,7 @@ AC_CONFIG_FILES([
 Makefile
 TaliskerTerminal/Makefile
 Roboto/Makefile
-Cabin/Makefile
+Bristol/Makefile
 CabinSketch/Makefile
 ])
 

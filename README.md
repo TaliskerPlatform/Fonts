@@ -24,6 +24,10 @@ All installed fonts use a file naming scheme of:
 
     Family [Variant] WeightValue [Style].EXT
 
+Uninstalled fonts use a file naming scheme of:
+
+    Family[Variant]-WeightValue[-Style].EXT
+
 Variant, if present, will be along the lines of “Rounded” or “Sketch”.
 
 Style, if present, will typically be “Italic”, although others are possible.
@@ -56,9 +60,16 @@ The _Name for humans_ uses a naming scheme of:
 
     Family [Variant] Weight [Style]
 
+### Open Font License Reserved Names
+
+Modifications to the fonts, including converting file formats, constitute a
+“Modified Version” under the terms of the SIL Open Font License, and as such
+must not use the “Reserved Font Name” (specified by the author when it was
+released) as the primary name displayed to end-users.
+
 ***
 
-## Cabin
+## Bristol
 
 Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](http://www.impallari.com/cabin)”, with modifications by [Igino Marini](http://ikern.com/k1/).
 

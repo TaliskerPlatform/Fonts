@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'Bristol-400';
+	src: url(Bristol-400.otf);
+}
+@font-face {
+	font-family: 'Bristol-400-Italic';
+	src: url(Bristol-400-Italic.otf);
+}
+@font-face {
+	font-family: 'Bristol-500';
+	src: url(Bristol-500.otf);
+}
+@font-face {
+	font-family: 'Bristol-500-Italic';
+	src: url(Bristol-500-Italic.otf);
+}
+@font-face {
+	font-family: 'Bristol-600';
+	src: url(Bristol-600.otf);
+}
+@font-face {
+	font-family: 'Bristol-600-Italic';
+	src: url(Bristol-600-Italic.otf);
+}
+@font-face {
+	font-family: 'Bristol-700';
+	src: url(Bristol-700.otf);
+}
+@font-face {
+	font-family: 'Bristol-700-Italic';
+	src: url(Bristol-700-Italic.otf);
+}
+
+section.regular>p {
+	font-family: 'Bristol-400';
+}
+section.regular.italic>p {
+	font-family: 'Bristol-400-Italic';
+}
+section.medium>p {
+	font-family: 'Bristol-500';
+}
+section.medium.italic>p {
+	font-family: 'Bristol-500-Italic';
+}
+section.semibold>p {
+	font-family: 'Bristol-600';
+}
+section.semibold.italic>p {
+	font-family: 'Bristol-600-Italic';
+}
+section.bold>p {
+	font-family: 'Bristol-700';
+}
+section.bold.italic>p {
+	font-family: 'Bristol-700-Italic';
+}
