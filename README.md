@@ -16,6 +16,48 @@ limitations under the License.
 
 ***
 
+## Font naming
+
+### File names
+
+All installed fonts use a file naming scheme of:
+
+    Family [Variant] WeightValue [Style].EXT
+
+Variant, if present, will be along the lines of “Rounded” or “Sketch”.
+
+Style, if present, will typically be “Italic”, although others are possible.
+
+Weights are one of:
+
+    100    Thin
+    200    Extra-light
+    300    Light
+    400    Regular (Book)
+    500    Medium
+    600    Semibold
+    700    Bold
+    800    Extra-bold
+    900    Black
+
+By preference, OpenType (`.otf`) files are installed.
+
+### Postscript names
+
+The _Font name_ uses a naming scheme of:
+
+    Family[Variant]-Weight[Style]
+
+The _Family name_ uses a naming scheme of:
+
+    Family Variant
+
+The _Name for humans_ uses a naming scheme of:
+
+    Family [Variant] Weight [Style]
+
+***
+
 ## Cabin
 
 Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](http://www.impallari.com/cabin)”, with modifications by [Igino Marini](http://ikern.com/k1/).
