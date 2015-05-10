@@ -14,7 +14,7 @@
 
 ## See README.md for the full list of typeface credits.
 
-dist_noinst_DATA = TaliskerTerminal.sfd TaliskerTerminal.otf
+dist_noinst_DATA = TaliskerTerminal-500.sfd TaliskerTerminal-500.otf
 
 fontsdir = $(prefix)/Library/Fonts
 
@@ -23,4 +23,4 @@ fontsdir = $(prefix)/Library/Fonts
 
 install-data-hook:
 	$(MKDIR_P) '$(DESTDIR)$(fontsdir)'
-	$(INSTALL_DATA) '$(srcdir)/TaliskerTerminal.otf' '$(DESTDIR)$(fontsdir)/Talisker Terminal Regular.otf'
+	$(INSTALL_DATA) '$(srcdir)/TaliskerTerminal-500.otf' '$(DESTDIR)$(fontsdir)/Talisker Terminal 500.otf'
