@@ -16,7 +16,7 @@
 
 dist_noinst_DATA = LICENSE-2.0 README.md
 
-SUBDIRS = TaliskerTerminal Roboto
+SUBDIRS = TaliskerTerminal Roboto Cabin
 
 fontsdir = $(prefix)/Library/Fonts
 

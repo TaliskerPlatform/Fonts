@@ -16,6 +16,12 @@ limitations under the License.
 
 ***
 
+## Cabin
+
+Originally by [Pablo Impallari](http://www.impallari.com), published as “[Cabin](https://www.google.com/fonts/specimen/Cabin)”
+
+Licensed under the terms of the [SIL Open Font License](http://scripts.sil.org/OFL)
+
 ## Fanwood
 
 Originally by [Barry Schwartz](https://www.theleagueofmoveabletype.com/members/crudfactory), published as “[Fanwood](https://www.theleagueofmoveabletype.com/fanwood)”.
