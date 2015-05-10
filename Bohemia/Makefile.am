@@ -16,7 +16,7 @@
 
 dist_noinst_DATA = COPYING \
 	Fanwood.otf Fanwood-Italic.otf FanwoodText-Italic.otf FanwoodText.otf \
-	specimen.html fonts.css \
+	specimen.html fonts.css Bohemia.png \
 	Bohemia-400.sfd Bohemia-400.otf \
 	Bohemia-400-Italic.sfd Bohemia-400-Italic.otf \
 	BohemiaText-400.sfd BohemiaText-400.otf \
