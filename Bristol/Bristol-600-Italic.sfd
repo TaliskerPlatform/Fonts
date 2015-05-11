@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: Bristol-Semibold-Italic
+FontName: Bristol-SemiboldItalic
 FullName: Bristol Semibold Italic
 FamilyName: Bristol
 Weight: Semibold
 Copyright: Copyright (c) 2011 by Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com. All rights reserved.
-Version: 1.006
+Version: 1.00
 DefaultBaseFilename: Bristol-600-Italic
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -16,14 +16,13 @@ sfntRevision: 0x00010189
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 805 -1179658985 2900169]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1321858983
-ModificationTime: 1431276864
-PfmFamily: 17
+ModificationTime: 1431373804
+PfmFamily: 33
 TTFWeight: 600
 TTFWidth: 5
 LineGap: 0
@@ -958,7 +957,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Semibold Italic" "" "" "Version 1.006" "" "Cabin SemiBold Italic is a trademark of Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com." "Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com" "Pablo Impallari" "Copyright (c) 2011 by Pablo Impallari. www.impallari.com Copyright (c) 2011 by Igino Marini. www.ikern.com All rights reserved." "www.impallari.com" "www.impallari.com" "Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),+AA0ACgAA-with Reserved Font Name Cabin.+AA0ACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0ACgAA-This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "" "" "Cabin SemiBold Italic"
+LangName: 1033 "" "" "" "Talisker: Bristol-600-Italic" "" "" "" "Cabin SemiBold Italic is a trademark of Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com." "Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com" "Pablo Impallari" "Copyright (c) 2011 by Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com. All rights reserved." "https://github.com/TaliskerPlatform/Fonts" "http://www.impallari.com" "Copyright (c) 2010, Pablo Impallari (www.impallari.com|impallari@gmail.com),+AA0ACgAA-with Reserved Font Name Cabin.+AA0ACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0ACgAA-This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "" "" "Cabin SemiBold Italic"
 GaspTable: 2 8 2 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
