@@ -4,7 +4,7 @@ FullName: Geneva Black
 FamilyName: Geneva
 Weight: Black
 Copyright: Copyright 2011 Google Inc. All Rights Reserved.
-Version: 2.001171; 2014
+Version: 1.00
 DefaultBaseFilename: Geneva-900
 ItalicAngle: 0
 UnderlinePosition: -200
@@ -12,18 +12,16 @@ UnderlineWidth: 100
 Ascent: 1536
 Descent: 512
 InvalidEm: 0
-sfntRevision: 0x00020000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 805 -1179658985 9436096]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1221222574
-ModificationTime: 1431279630
-PfmFamily: 17
+ModificationTime: 1431375197
+PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
 LineGap: 0
@@ -54,7 +52,7 @@ OS2StrikeYSize: 102
 OS2StrikeYPos: 512
 OS2CapHeight: 1456
 OS2XHeight: 1082
-OS2Vendor: 'GOOG'
+OS2Vendor: '    '
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: e0000aff.5000217f.00000021.00000000
 Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0" { "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable"  } ['c2sc' ('latn' <'AZE ' 'CRT ' 'MOL ' 'NAV ' 'ROM ' 'TUR ' 'dflt' > ) ]
@@ -945,7 +943,7 @@ ShortTable: maxp 16
   6
   1
 EndShort
-LangName: 1033 "" "" "Regular" "Geneva Black" "" "Version 2.001171; 2014" "" "Roboto is a trademark of Google." "" "Google" "" "Google.com" "Christian Robertson" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "Geneva" "Black"
+LangName: 1033 "" "" "" "Talisker: Geneva-900" "" "" "" "Roboto is a trademark of Google." "Google" "Christian Robertson" "" "https://github.com/TaliskerPlatform/Fonts" "" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "" "" "Roboto Black"
 GaspTable: 2 8 2 65535 15 1
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -1106,7 +1104,6 @@ Flags: W
 LayerCount: 2
 Back
 Fore
-Kerns2: 1100 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 909 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 734 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 732 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 730 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 314 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 306 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 213 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 209 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 56 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0"
 EndChar
 
 StartChar: exclam

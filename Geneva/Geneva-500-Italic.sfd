@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: Geneva-Medium-Italic
+FontName: Geneva-MediumItalic
 FullName: Geneva Medium Italic
 FamilyName: Geneva
 Weight: Medium
 Copyright: Copyright 2011 Google Inc. All Rights Reserved.
-Version: 2.001152; 2014
+Version: 1.00
 DefaultBaseFilename: Geneva-500-Italic
 ItalicAngle: -12
 UnderlinePosition: -200
@@ -12,18 +12,16 @@ UnderlineWidth: 100
 Ascent: 1536
 Descent: 512
 InvalidEm: 0
-sfntRevision: 0x00020000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 805 -1179658985 9256260]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1221222574
-ModificationTime: 1431279932
-PfmFamily: 17
+ModificationTime: 1431374890
+PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
 LineGap: 0
@@ -54,7 +52,7 @@ OS2StrikeYSize: 102
 OS2StrikeYPos: 512
 OS2CapHeight: 1456
 OS2XHeight: 1082
-OS2Vendor: 'GOOG'
+OS2Vendor: '    '
 OS2CodePages: 2000019f.00000000
 OS2UnicodeRanges: e0000aff.5000217f.00000021.00000000
 Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals in Latin lookup 0" { "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable"  } ['c2sc' ('latn' <'AZE ' 'CRT ' 'MOL ' 'NAV ' 'ROM ' 'TUR ' 'dflt' > ) ]
@@ -950,7 +948,7 @@ ShortTable: maxp 16
   6
   1
 EndShort
-LangName: 1033 "" "" "Medium Italic" "Geneva Medium Italic" "" "Version 2.001152; 2014" "" "Roboto is a trademark of Google." "" "Google" "" "Google.com" "Christian Robertson" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "Geneva" "Medium Italic"
+LangName: 1033 "" "" "Medium Italic" "Talisker: Geneva-500-Italic" "" "" "" "Roboto is a trademark of Google." "Google" "Christian Robertson" "" "https://github.com/TaliskerPlatform/Fonts" "" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "" "" "Roboto Medium Italic"
 GaspTable: 2 8 2 65535 15 1
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -1142,7 +1140,6 @@ Flags: W
 LayerCount: 2
 Back
 Fore
-Kerns2: 630 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 622 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 610 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 485 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 462 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 453 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 354 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 295 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 293 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0" 56 -60 "'kern' Horizontal Kerning lookup 4 per glyph data 0"
 EndChar
 
 StartChar: exclam
